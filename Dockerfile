@@ -1,2 +1,2 @@
 FROM alpine:latest
-RUN echo hello > /hello.txt
+RUN echo hello2 > /hello.txt
